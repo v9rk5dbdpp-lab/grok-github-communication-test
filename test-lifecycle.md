@@ -1,8 +1,10 @@
 # Test Lifecycle File
 
-**Initial version** created for full GitHub file lifecycle test.
+**Updated version** - modified as part of the full test.
 
-- Created at: 2026-07-04
-- Purpose: Verify create → update → delete workflow via Grok tools
+Changes made:
+- Added update section
+- Changed status to modified
+- Timestamp: 2026-07-04 21:30 CEST
 
-This file will be modified and then deleted as part of the communication test.
+This demonstrates successful file modification via GitHub tools.
